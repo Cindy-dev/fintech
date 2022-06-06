@@ -1,4 +1,6 @@
+import 'package:fintech_design/screens/homeScreen.dart';
 import 'package:fintech_design/screens/onboarding.dart';
+import 'package:fintech_design/screens/statistics.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
-      home: Onboarding(),
+      home: Statistics(),  
     );
   }
 }

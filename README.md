@@ -5,6 +5,12 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="asset\image\statistics1.png" width="350" title="chart screen">
+  <img src="asset\image\fintech1.png" width="350" title="chart screen">
+  <img src="asset\image\homeScreen1.png" width="350" title="chart screen">
+  
+</p>
 
 A few resources to get you started if this is your first Flutter project:
 
